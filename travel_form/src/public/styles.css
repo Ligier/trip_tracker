@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "HK Grotesk";
+  font-size: 30px;
+}
+
+.button {
+  width: 180px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #003087;
+  color: white;
+  font-size: 14px;
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  padding: 0px;
+}
+
+.button:focus {
+  outline: 0;
+}
+
+.yourTrips {
+  width: 25%;
+  margin: 20px 20px 20px 0px;
+  border-style: none;
+  display: inline-block;
+  padding: 0px;
+}
+
+.positioned {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.cardImage {
+  object-fit: cover;
+  width: 100%;
+  height:
+}
